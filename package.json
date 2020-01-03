@@ -1,7 +1,7 @@
 {
   "name": "mark-as-read",
   "version": "0.1.0",
-  "description": "Thunderbird MailExtension that provides a functional \"automatically mark as read\" funcitonality.",
+  "description": "Thunderbird MailExtension that provides a functional \"automatically mark as read\" functionality.",
   "main": "main.js",
   "scripts": {
     "build": "node .tools/build.js",
