@@ -44,7 +44,7 @@ async function run(){
 	}
 	catch (e){}
 	
-	const exclude = ["mail-ext-artifacts/", ".*", "**/.*", "package*"];
+	const exclude = ["mail-ext-artifacts/", "node_modules/*", ".*", "**/.*", "package*"];
 	
 	const args = ["-r", filePath, "./", "--exclude", ...exclude];
 	
