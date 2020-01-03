@@ -18,6 +18,12 @@
 		"storage",
 		"messagesRead"
 	],
+	"applications": {
+		"gecko": {
+			"id": "mark-as-read@kkapsner.de",
+			"strict_min_version": "68.3.1"
+		}
+	},
 	"default_locale": "en",
 	"manifest_version": 2
 }
