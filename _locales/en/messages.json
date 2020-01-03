@@ -6,5 +6,17 @@
 	"addon_description": {
 		"message": "Provides a non broken \"automatically mark as read\" functionality.",
 		"description": ""
+	},
+	"options.title": {
+		"message": "\"Mark as read\" settings",
+		"description": ""
+	},
+	"options.timout_label.before": {
+		"message": "Mark message as read after",
+		"description": ""
+	},
+	"options.timout_label.after": {
+		"message": "ms.",
+		"description": ""
 	}
 }

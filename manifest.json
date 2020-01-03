@@ -12,6 +12,10 @@
 			"main.js"
 		]
 	},
+	"options_ui": {
+		"browser_style": true,
+		"page": "options/options.html"
+	},
 	"author": "Korbinian Kapsner",
 	"permissions": [
 		"<all_urls>",
@@ -21,7 +25,7 @@
 	"applications": {
 		"gecko": {
 			"id": "mark-as-read@kkapsner.de",
-			"strict_min_version": "68.3.1"
+			"strict_min_version": "68.3.0"
 		}
 	},
 	"default_locale": "en",
