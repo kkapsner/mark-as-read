@@ -1,0 +1,24 @@
+{
+  "name": "mark-as-read",
+  "version": "0.1.0",
+  "description": "Thunderbird MailExtension that provides a functional \"automatically mark as read\" funcitonality.",
+  "main": "main.js",
+  "scripts": {
+    "build": "node .tools/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkapsner/mark-as-read.git"
+  },
+  "keywords": [
+    "Thunderbird",
+    "MailExtension",
+    "mark as read"
+  ],
+  "author": "Korbinian Kapsner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kkapsner/mark-as-read/issues"
+  },
+  "homepage": "https://github.com/kkapsner/mark-as-read#readme"
+}
