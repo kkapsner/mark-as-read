@@ -1,0 +1,10 @@
+{	
+	"addon_title": {
+		"message": "Mark as read",
+		"description": ""
+	},
+	"addon_description": {
+		"message": "Stellt ein funktionierendes \"Nachrichten automatisch als gelesen markieren\" zur Verfügung.",
+		"description": ""
+	}
+}

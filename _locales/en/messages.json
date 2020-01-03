@@ -1,0 +1,10 @@
+{	
+	"addon_title": {
+		"message": "Mark as read",
+		"description": ""
+	},
+	"addon_description": {
+		"message": "Provides a non broken \"automatically mark as read\" functionality.",
+		"description": ""
+	}
+}

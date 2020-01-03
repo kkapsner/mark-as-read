@@ -1,0 +1,19 @@
+
+{
+	"name": "Mark as read",
+	"description": "__MSG_addon_description__",
+	"version": "0.1.0",
+	"background": {
+		"scripts": [
+			"main.js"
+		]
+	},
+	"author": "Korbinian Kapsner",
+	"permissions": [
+		"<all_urls>",
+		"storage",
+		"messagesRead"
+	],
+	"default_locale": "en",
+	"manifest_version": 2
+}
