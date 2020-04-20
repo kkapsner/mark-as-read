@@ -7,7 +7,7 @@ browser.messageDisplay.onMessageDisplayed.addListener(async function(tabId, mess
 		try {
 			const timeout = (await browser.storage.local.get({timeout: 2000})).timeout;
 			setTimeout(async function(){
-				const currentMessageHeader = await browser.messageDisplay.getDisplayedMessage(tabId);
+				const currentMessageHeader = await browser.messageDisplay.getDisplayedMessage(tabId.id || tabId);
 				if (
 					currentMessageHeader &&
 					currentMessageHeader.id === messageHeader.id
