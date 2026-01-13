@@ -1,4 +1,4 @@
-mark-as-read [![codebeat badge](https://codebeat.co/badges/2be15561-aee2-4fb4-81e5-6bfc1d6b684c)](https://codebeat.co/projects/github-com-kkapsner-mark-as-read-master)
+mark-as-read
 =====
 
 Thunderbird MailExtension that provides a functional "automatically mark as read" functionality.
